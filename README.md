@@ -1,6 +1,6 @@
 # AnúncioAnalyzer
 
-![Logo da AnúncioAnalyzer](caminho/para/a/imagem.png)
+![Logo da AnúncioAnalyzer](Captura.png)
 
 AnúncioAnalyzer é uma extensão para Google Chrome desenvolvida por Kirito Dev.
 
