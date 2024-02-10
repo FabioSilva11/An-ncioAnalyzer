@@ -2,6 +2,10 @@
 
 ![Logo da AnúncioAnalyzer](https://github.com/FabioSilva11/AnuncioAnalyzer/blob/main/Capturar.PNG)
 
+![Logo da AnúncioAnalyzer](https://github.com/FabioSilva11/AnuncioAnalyzer/blob/main/Screenshot.jpg)
+
+
+
 AnúncioAnalyzer é uma extensão para Google Chrome desenvolvida por Kirito Dev (fabio silva)
 
 ## Manifesto (manifest.json)
